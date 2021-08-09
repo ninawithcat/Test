@@ -1,0 +1,22 @@
+From fae1cb2bf9adced35990860434002f605d3ff66a Mon Sep 17 00:00:00 2001
+From: wangyiling <851326185@qq.com>
+Date: Tue, 10 Aug 2021 00:23:59 +0800
+Subject: [PATCH] Revert "no message"
+
+This reverts commit 9876979b27b89b26fc83acc8c1d8e080fc01039e.
+---
+ 2.txt | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 2.txt
+
+diff --git a/2.txt b/2.txt
+deleted file mode 100644
+index 6dd90d2..0000000
+--- a/2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-222
+\ No newline at end of file
+-- 
+2.30.2.windows.1
+
